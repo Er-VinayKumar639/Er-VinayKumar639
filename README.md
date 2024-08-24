@@ -61,6 +61,9 @@ I am seeking opportunities as a Software Engineer as well as Web Developer.
   <a href="https://x.com/ErVinayKumar639">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
+  <a href="https://x.com/your-x-id">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
+  </a>
 </p>
 
 ---

@@ -76,6 +76,7 @@ To become a challenging Software Engineer that leverages my programming skills i
 
 <p align="center">
   💻 <strong>"Good code is its own best documentation." – Steve McConnell</strong> 💻
-
-  💻 <strong> "Software is a great combination between artistry and engineering." – Bill Gates</strong> 💻
+</p>
+<p align="center">
+   💻 <strong> "Software is a great combination between artistry and engineering." – Bill Gates</strong> 💻
 </p>

@@ -75,5 +75,7 @@ To become a challenging Software Engineer that leverages my programming skills i
 ---
 
 <p align="center">
-  💻 <strong>"Code is like humor. When you have to explain it, it’s bad." – Cory House</strong> 💻
+  💻 <strong>"Good code is its own best documentation." – Steve McConnell</strong> 💻
+
+  💻 <strong> "Software is a great combination between artistry and engineering." – Bill Gates</strong> 💻
 </p>

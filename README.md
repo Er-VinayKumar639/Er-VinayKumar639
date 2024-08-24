@@ -4,6 +4,8 @@
   <em>Passionate Software Engineer | Web Developer | Tech Enthusiast </em>
 </p>
 
+---
+
 ### 🚀 About Me
 
 I'm Vinay Kumar, an enthusiastic and confident individual with expertise in C, JavaScript, Java, Python and cloud-based services. Possess strong problem-solving skills and a passion for delivering high-quality products. Strong understanding of data structures, algorithms, software development life cycles and agile methodologies. I am a web developer with latest technical skills and creating cutting-edge web solutions. My journey in tech has been driven by curiosity and a passion for continuous learning. Whether it's building dynamic frontends with React or crafting robust backends with Node.js, I'm always eager to dive into new challenges.
@@ -14,6 +16,8 @@ To become a challenging Software Engineer that leverages my programming skills i
 ### 🌟 What I Do
 
  **Crafting responsive and dynamic websites using technologies like HTML5, CSS3, JavaScript, React, MongoDB, MySQL, tailwind css, bootstrap, Node.js, Express.js and modern frameworks.**
+ 
+ ---
 
 ### 💼 Skills
 
@@ -32,6 +36,8 @@ To become a challenging Software Engineer that leverages my programming skills i
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
 </p>
 
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -42,6 +48,8 @@ To become a challenging Software Engineer that leverages my programming skills i
 <p align="center">
   <img src="https://img.shields.io/github/followers/Er-VinayKumar639?style=social" alt="GitHub Followers Badge">
 </p>
+
+---
 
 ### 📫 Connect with Me
 

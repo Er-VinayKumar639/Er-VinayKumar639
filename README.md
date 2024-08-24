@@ -7,9 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20years-blue" alt="Experience Badge">
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="GitHub Followers Badge">
-  <img src="https://img.shields.io/youtube/channel/subscribers/your-channel-id?label=YouTube%20Subscribers&style=social" alt="YouTube Subscribers Badge">
+  <img src="https://img.shields.io/github/followers/Er-VinayKumar639?style=social" alt="GitHub Followers Badge">
 </p>
 
 ---

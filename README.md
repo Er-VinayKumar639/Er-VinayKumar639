@@ -39,13 +39,9 @@ To become a challenging Software Engineer that leverages my programming skills i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-VinayKumar639&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-VinayKumar639&layout=compact&theme=radical" alt="Top Languages">
 </p>
----
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Er-VinayKumar639?style=social" alt="GitHub Followers Badge">
 </p>
-
----
 ### 📫 Connect with Me
 
 <p align="center">

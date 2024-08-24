@@ -42,6 +42,7 @@ To become a challenging Software Engineer that leverages my programming skills i
 <p align="center">
   <img src="https://img.shields.io/github/followers/Er-VinayKumar639?style=social" alt="GitHub Followers Badge">
 </p>
+
 ### 📫 Connect with Me
 
 <p align="center">

@@ -1,21 +1,21 @@
-<h1 align="center">Hi there 👋, I'm Vinay Kumar</h1>
+<h1 align="center">Hi👋, I'm Vinay Kumar</h1>
 
 <p align="center">
   <em>Passionate Software Engineer | Web Developer | Tech Enthusiast </em>
 </p>
 
 ---
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Er-VinayKumar639?style=social" alt="GitHub Followers Badge">
 </p>
-
 ---
 
 ### 🚀 About Me
 
-I'm Vinay Kumar, a web developer with latest technical skills and creating cutting-edge web solutions. My journey in tech has been driven by curiosity and a passion for continuous learning. Whether it's building dynamic frontends with React or crafting robust backends with Node.js, I'm always eager to dive into new challenges.
-I am seeking opportunities as a Software Engineer as well as Web Developer.
+I'm Vinay Kumar, an enthusiastic and confident individual with expertise in C, JavaScript, Java, Python and cloud-based services. Possess strong problem-solving skills and a passion for delivering high-quality products. Strong understanding of data structures, algorithms, software development life cycles and agile methodologies. I am a web developer with latest technical skills and creating cutting-edge web solutions. My journey in tech has been driven by curiosity and a passion for continuous learning. Whether it's building dynamic frontends with React or crafting robust backends with Node.js, I'm always eager to dive into new challenges.
+
+### 💻 Career Objective
+To become a challenging Software Engineer that leverages my programming skills in C, Python, JavaScript and Java to build scalable, robust and reliable products, while continuously learning and growing with new technology stacks.
 
 ### 🌟 What I Do
 

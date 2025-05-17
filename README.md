@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm Vinay Kumar, an enthusiastic and confident individual with expertise in C, JavaScript, Java, Python and cloud-based services. Possess strong problem-solving skills and a passion for delivering high-quality products. Strong understanding of data structures, algorithms, software development life cycles and agile methodologies. I am a web developer with latest technical skills and creating cutting-edge web solutions. My journey in tech has been driven by curiosity and a passion for continuous learning. Whether it's building dynamic frontends with React or crafting robust backends with Node.js, I'm always eager to dive into new challenges.
+I'm Vinay Kumar, an enthusiastic and confident individual with expertise in C, JavaScript, Java, Python, AI/ML and cloud-based services. Possess strong problem-solving skills and a passion for delivering high-quality products. Strong understanding of data structures, algorithms, software development life cycles and agile methodologies. I am a web developer with latest technical skills and creating cutting-edge web solutions. My journey in tech has been driven by curiosity and a passion for continuous learning. Whether it's building dynamic frontends with React or crafting robust backends with Node.js, I'm always eager to dive into new challenges.
 
 ### 💻 Career Objective
 To become a challenging Software Engineer that leverages my programming skills in C, Python, JavaScript and Java to build scalable, robust and reliable products, while continuously learning and growing with new technology stacks.

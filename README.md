@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Vinay Kumar</h1>
 
 <p align="center">
-  <em>Data Engineer | AI Engieer | Web Developer | Tech Enthusiast </em>
+  <em>Data Engineer | Aspiring AI Engineer | Web Developer | Tech Enthusiast </em>
 </p>
 
 ---

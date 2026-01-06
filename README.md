@@ -45,11 +45,6 @@ To become a challenging Data Engineer that leverages my programming skills in C,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Er-VinayKumar639&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-VinayKumar639&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-VinayKumar639&layout=compact&theme=radical" alt="Top Languages">
-</p>
-<p align="center">
   <img src="https://img.shields.io/github/followers/Er-VinayKumar639?style=social" alt="GitHub Followers Badge">
 </p>
 

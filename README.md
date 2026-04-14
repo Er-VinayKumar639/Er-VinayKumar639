@@ -1,21 +1,17 @@
 <h1 align="center">Hi👋, I'm Vinay Kumar</h1>
 
 <p align="center">
-  <em>Data Engineer | Aspiring AI Engineer | Web Developer | Tech Enthusiast </em>
+  <em>AI Data Engineer </em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm Vinay Kumar, an enthusiastic and confident individual with expertise in C, JavaScript, Java, Python, AI/ML and cloud-based services. I'm currently working as a Data Engineer at Coforge.I Possess strong problem-solving skills and a passion for delivering high-quality products, Strong understanding of data structures, algorithms, software development life cycles and agile methodologies. I am a web developer with latest technical skills and creating cutting-edge web solutions. My journey in tech has been driven by curiosity and a passion for continuous learning. Whether it's building dynamic frontends with React or crafting robust backends with Node.js, I'm always eager to dive into new challenges.
+I'm Vinay Kumar, an enthusiastic and confident individual with expertise in C, JavaScript, Java, Python, AI/ML and cloud-based services. I'm currently working as a Data Engineer at Coforge. I Possess strong problem-solving skills and a passion for delivering high-quality products, with strong understanding of data structures, algorithms, software development life cycles and agile methodologies. My journey in tech has been driven by curiosity and a passion for continuous learning. Whether it's building scalable ETL Pipelines, dynamic frontends with React or crafting robust backends with Node.js, I'm always eager to dive into new challenges.
 
 ### 💻 Career Objective
-To become a challenging Data Engineer that leverages my programming skills in C, Python, JavaScript and Java to build scalable, robust and reliable products, while continuously learning and growing with new technology stacks.
-
-### 🌟 What I Do
-
- **Currently I am working as a Graduate Engineer Trainee(Data Engineer) at Coforge**
+To become a challenging AI Data Engineer that leverages my programming skills in C, Python, JavaScript and Java to build scalable, robust and reliable products, while continuously learning and growing with new technology stacks
  
  ---
 
@@ -69,9 +65,6 @@ To become a challenging Data Engineer that leverages my programming skills in C,
 
 ---
 
-<p align="center">
-  💻 <strong>"Good code is its own best documentation." – Steve McConnell</strong> 💻
-</p>
 <p align="center">
    💻 <strong> "Software is a great combination between artistry and engineering." – Bill Gates</strong> 💻
 </p>

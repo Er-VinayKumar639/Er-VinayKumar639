@@ -11,7 +11,7 @@
 I'm Vinay Kumar, an enthusiastic and confident individual with expertise in C, JavaScript, Java, Python, AI/ML and cloud-based services. I'm currently working as a Data Engineer at Coforge. I Possess strong problem-solving skills and a passion for delivering high-quality products, with strong understanding of data structures, algorithms, software development life cycles and agile methodologies. My journey in tech has been driven by curiosity and a passion for continuous learning. Whether it's building scalable ETL Pipelines, dynamic frontends with React or crafting robust backends with Node.js, I'm always eager to dive into new challenges.
 
 ### 💻 Career Objective
-To become a challenging AI Data Engineer that leverages my programming skills in C, Python, JavaScript and Java to build scalable, robust and reliable products, while continuously learning and growing with new technology stacks
+To become a challenging AI Data Engineer that leverages my programming skills in C, Python and Java to build scalable, robust and reliable products, while continuously learning and growing with new technology stacks
  
  ---
 

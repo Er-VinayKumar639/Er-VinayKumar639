@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Vinay Kumar</h1>
 
 <p align="center">
-  <em>AI Data Engineer </em>
+  <em>Graduate Engineer Trainee</em>
 </p>
 
 ---

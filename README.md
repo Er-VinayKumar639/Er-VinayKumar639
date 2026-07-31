@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Vinay Kumar</h1>
 
 <p align="center">
-  <em>Graduate Engineer Trainee</em>
+  <em>Graduate Engineer Trainee / Data & AI</em>
 </p>
 
 ---
@@ -61,7 +61,7 @@ To become a challenging AI Data Engineer that leverages my programming skills in
   <a href="https://x.com/ErVinayKumar639">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X Badge">
   </a>
-</p>
+</p>____
 
 ---
 
